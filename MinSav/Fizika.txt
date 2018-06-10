@@ -1,0 +1,46 @@
+BUNI HAMMA BILISHI KERAK (FIZIKA):
+
+1. Fizika so`zi qanday so`zdan olingan?
+   Javobi:Yunoncha “phyuzis”------“tabiat” so`zidan olingan.
+2. Mexanika necha qismdan iborat?
+   Javobi:3qismdan iborat:kinematika, dinamika,statika
+3. Tezlikning birligi va o`lchovchi asbob?
+   Javobi: m/s,sipedometr
+4. Nyutonning 1-qonunini ayting?
+   Javobi:Har qanday jism , boshqa jismlar ta`siri boshlang`ich holatini o`zgartirishga majbur etmaguncha, o`zining tinch yoki to`g`ri chiziqli tekis harakati holatini saqlaydi.
+5. Nyutonning 2-qonuni ayting?
+   Javobi: Jismning oladigan tezlanishi unga ta`sir etayotgan kuchga, massasiga esa teskari proporsional.
+6. Nyutonning 3- qonuni?
+   Javobi:Moddiy nuqtalar ta`sir kuchlariningkattaliklari doimo bir-biriga teng yo`nalishlari qarama-qarshi.
+7. Butun olam tortishish qonunini ayting?
+   Javobi: Ikkita istalgan moddiy nuqta bir-birining massalarining ko`paytmasiga to`g`ri va orasidagi masofaning kvadratiga teskari proporsional kuch bilan tortadi.
+8. Bosim deb nimaga aytiladi?
+   Javobi:Birlik yuzaga suyuqlik tomonidan ta`sir etuvchi normal kuch bilan aniqlanuvchi fizik kattalikka aytiladi.Birligi paskal
+9. Kuch qanday kattalik?
+   Javobi: vektor
+10.Quvvatning birligi?
+   Javobi: Vaat
+11.Energiyaning saqlanish qonuni qanday?
+   Javobi: Energiya hech qachon yo`qolmaydi  ham yo`qdan paydo ham bo`lmaydi.U faqat bir turdan boshqasiga aylanishi mumkin.Yopiq sistemada to`la energiya saqlanadi
+12.Turli shakldagi harakatlar va o`zaro ta`sirlarning miqdoriy o`lchovi …
+   Javobi: Energiya
+13.Ma`lum vaqtdan keyin qaytariladigan harakatlarga yoki jarayonlarga nima deyiladi?
+   Javobi: Tebranishlar
+14.To`lqinlar deb nimaga aytiladi?
+   Javobi: Tebranishlarning muhitda tarqalish jarayoniga
+15.Tovush to`lqinlarining balandligi nimaga bog`liq?
+   Javobi:Tovush chastotasi
+16.Normal atmosfer bosimi nechaga teng?
+   Javobi: 760 mm.sim.ust.
+17.Dielektriklar deb nimaga aytiladi?
+   Javobi: erkin elektronlari mavjud bo`lmagan moddalar.
+18.Transformator qanday qurilma?
+   Javobi:Tok kuchi va kuchlanishning qiymatlarini o`zgartiruvchi
+19.Transformatorlar birinchi bo`lib kimlar tomonidan yasalgan va qo`llanilgan?
+   Javobi:Rus olimlari P.Yablochkov va I. Usaginlar
+20.Zamonaviy televizorlarning birinchi namunasi qayerda ixtiro qilingan?
+   Javobi: Toshkentda
+21.O`zbekistonda television ko`rsatuvlar rasman qachon boshlangan?
+   Javobi:1956-yil 5-noyabr
+22.Hozir O`zbekiston televideniyesining nechta dasturi ishlaydi?
+   Javobi: 5 ta dasturda

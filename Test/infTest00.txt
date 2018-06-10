@@ -1,0 +1,33 @@
+Informatika_minimum
+5
+13121
+SS1
+Informatika fani qachon paydo bo'ldi?
+A) XX-asrning 2-yarmida (50-yillarida).
+B) XX-asrning 1-yarmida (40-yillarida).
+C) XX-asrning 2-yarmida (60-yillarida).
+D) XX-asrning 2-yarmida (70-yillarida).
+SS2
+Informatika fani nimani o'rganadi?
+A) Axborotlarni qabul qilish va yig'ish qonunlarini.
+B) EHM avlodlarini.
+C) Axborotlarni qabul qilish, yig'ish, qayta ishlash, jamlash, saqlash, uzatish usul va qonunlarini.
+D) Kompyuterni.
+SS3
+Axborot nima?
+A) Dunyodagi mavjud narsalar, unda ro'y beradigan voqealar va hodisalar haqidagi xabar va ma'lumotlardir.
+B) Dunyodagi ma'lumotlar.
+C) Dunyodagi mavjud narsalar, unda ro'y beradigan voqealar.
+D) Inson bilimi.
+SS4
+Axborot so'zining ma'nosi nima?
+A) Lotincha "Informatio" so'zidan xabar ma'nosini bildiradi.
+B) Lotincha "Informatio" so'zidan olingan bo'lib tushintirish, tavsiflash degan ma'noni bildiradi.
+C) Lotincha "Informatio" so'zidan olingan bo'lib ma?lumot degani.
+D) Inglizcha "Informatio" so'zidan olingan bo'lib hisoblovchi degani.
+SS5
+Axborot tizimi deb nimaga aytiladi?
+A) Belgilangan maqsadga erishish yo'lida axborotni yig'ish, saqlash, qayta ishlash va uzatish uchun qo'llaniladigan usullar, vositalar va shaxslarning o'zaro bog'langan majmuasidir.
+B) Belgilangan maqsadga erishish yo'lida axborotni yig'ish, saqlash, qayta ishlash jarayoni.
+C) Belgilangan maqsadga erishish yo'lida axborotni jamlash uchun qo'llaniladigan usullar, vositalar va shaxslarning o'zaro bog'langan majmuasidir.
+D) Belgilangan maqsadga erishish yo'lida axborotni yig'ish, saqlash, qayta ishlash va uzatish uchun qo'llaniladigan usullar va vositalarning o'zaro bog'langan majmuasidir.

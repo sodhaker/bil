@@ -1,0 +1,48 @@
+BUNI HAMMA BILISHI KERAK (INFORMATIKA):
+
+1.	Informatika fani XX-asrning 2-yarmida (50-yillarida) paydo bo’ldi.
+2.	Informatika fani axborotlarni qobul qilish, yig'ish, qayta ishlash, jamlash, saqlash, uzatish usul va qonunlarini o'rganadi.
+3.	Axborot – dunyodagi mavjud narsalar, unda ro'y beradigan voqealar va hodisalar haqidagi xabar va ma'lumotlardir.
+4.	Axborot so'zi lotincha «Informatio» so'zidan olingan bo'lib tushintirish, tavsiflash, xabar berish degan ma'noni bildiradi.
+5.	Axborot tizimi – belgilangan maqsadga erishish yo'lida axborotni yig'ish, saqlash, qayta ishlash va uzatish uchun qo'llaniladigan usullar, vositalar va shaxslarning o'zaro bog'langan majmuasidir.
+6.	Axborot texnologiyasi – axboriy ma'lumotni bir ko'rinishdan ikkinchi, sifat jihatidan yangi ko'rinishga keltirish, axborotni yig'ish, qayta ishlash va uzatishning usul va vositalari majmuasidan foydalanish jarayonidir.
+7.	Axborotning 3 muhim sifati – ma'lum ma'noda to'liqliligi, ma'lum ma'noda qimmatliligi, ishonchliligi.
+8.	Axborot o'lchov birliklari– Bit, bayt, Kilobayt, Megabayt, Gigabayt, Terabayt, Petabayt, Exabayt, Zettabayt, Yottabayt.
+9.	Axborot uzatish tezligi –bod (1 bod=1 bit/1 sekund).
+10.	Sanoq sistemalari joylashishiga ko'ra Pozitsion, Nopozision turlarga bo’linadi. Misollar: 2 lik, 8 lik, 10 lik, 16 lik.
+11.	EHM ning 4 avlodi yaratilib 5 avlod EHM lari loyihalashtirilmoqda.
+    1-avlod-1945-1950 yillar, elektron lampalar asosida qurilgan.
+    2-avlod-1960 yillar boshlari, tranzistorlar asosida qurilgan.
+    3-avlod-1960 yillar oxiri, integral sxemalar asosida qurilgan.
+    4-avlod-1970 yillar boshlari, katta integral sxemalar asosida qurilgan.
+12.	EHM avlodlari bir-biridan 3 jixati bilan – ichki va tashqi tuzilishi, xotira sig'imi va ishlash tezligi bilan farqlanadi.
+13.	Kompyuter so'zi inglizcha “Computer” so'zidan olingan bo'lib hisoblovchi degan ma'noni bildiradi.
+14.	Kompyuterning asosiy qurilmalari – sistemalar bloki (Prosessor), monitor, klaviatura.
+15.	Kompyuterning qo'shimcha qurilmalari – sichqoncha, printer, skaner, modem, plotter, strimmer, ... .
+16.	Kompyuter tarmoqlari 3 xil – Global (xalqaro), regional (mintaqaviy), lokal (maxalliy).
+17.	Global kompyuter tarmog'i – turli mamlakatlarda turli qit'alarda joylashgan abonentlarni birlashtiradi.
+18.	Regional kompyuter tarmog'i– biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o'zida mujassamlashtirgan tarmoq.
+19.	Lokal kompyuter tarmog'i– kichik bir xududda joylashgan obonentlarni birlashtiruvchi kompyuter tarmog'iga aytiladi.
+20.	Kompyuterni maxalliy tarmoqqa ulashning 3 xil turi bor: xalqasimon bog'lanish, yulduzsimon bog'lanish, shinali bog'lanish.
+21.	Internet– minglab lokal va mintaqaviy kompyuter tarmoqlarini bir butun qilib birlashtiruvchi butun dunyo kompyuter tarmog'i.
+22.	WWW (World, Wide, Web) – dunyo o’rgimchak to’ri.
+23.	Web-brouzer– Web-saxifalarni o'quvchi dastur (Internet Explorer, Netscape Navigator, Opera, .
+24.	Provayder– kompyuterlarning internet tarmog’iga ulanish va axborot almashinishini ta’minlovchi tashkilot.
+25.	O'zbekistondagi internet provayderlari: UzPAK, Sarkor-Telekom, Uzbekistan Freenet, Naytov, UzNet, Buzton, ….
+26.	Multimedia– matn, tovushli ma’lumotlarni, tabiiy va grafik tasvirlarni birlashtiruvchi axborot texnologiyasi.
+27.	Algoritm deb biror masalani yechish uchun zarur bo'lgan amallar ketma-ketligining qat'iy tartibiga aytiladi.
+28.	Algotimning asosiy hossalari 5 ta: tushunarlilik, aniqlik, diskretlilik, natijaviylik, ommaviylik.
+29.	Algoritmning tasvirlash usullari 5 ta: so’zlar yordamida, formulalar yordamida, jadval yordamida, grafik shaklda, dastur shaklida.
+30.	Algoritm turlari 3 ta: chiziqli, tarmoqlanuvchi, takrorlanuvchi¬.
+31.	Dasturlash tili – qat’iy grammatikaga bo’sinuvchi sun’iy til. Misollar: Algol, Fortran, Beysik, Paskal, Assembler, C, C++, java, Delphi va boshqalar.
+32.	Kompyuter grafikasi 3 turga bo'linadi: rastrli grafika, vektorli grafika, fraktal grafika.
+33.	Operasion tizim– kompyuterni yoqilishi bilan ishga tushuvchi ushbu dastur kompyuterni va uning resurslarini (tezkor xotira, diskdagi o'rinlar va hokazo) boshqaradi, foydalanuvchi bilan muloqotni tashkil etadi, bajarish uchun boshqa dasturlarni (amaliy dasturlarni) ishga tushiradi. Misollar: Unix, MS DOS, Windows 95, Windows 98, Windows Millennium, Windows NT, Windows 2000, Windows XP, Windows 7, Windows 8, Windows 10, ....
+34.	Matn muharriri – matn kiritish, tahrirlash, saqlash va ochish, chop etish, matnni formatlash kabi vazifalarni bajaradigan dastur. Misollar: MS Word, Lexicon, Wordpad, Notepad va boshqalar.
+35.	Elektron jadvallar – jadvalga matn, raqam va formula kabi ma'lumotlar kiritib, ular ustida hisob-kitoblar bajarish, diagrammalar yaratish imkonini beradigan dastur. Misollar: Lotus, MS Excel va boshqalar.
+36.	Ma'lumotlar bazasini boshqarish tizimi – ma'lumotlarni maxsus jadvallarga kiritib, tartibga solish, kerakli ma'lumotni izlash, ma'lumotlar omborini yaratish kabi vazifalarni bajaradigan dastur. Misollar: MS Access, Foxpro, Clipper, Paradox, Oracle va boshqalar.
+37.	Taqdimot yaratish – har xil mavzuda namoyish va taqdimot yaratish, ularga jadval, rasm, audio, video va multimedia ma'lumotlarni tadbiq etish imkoniyatlariga ega bo'lgan dastur. Misollar: MS PowerPoint, Macromedia Director va hokazo.
+38.	Grafik muharir – rastrli, vektorli va boshqa grafikani yaratish, tahrirlash, ishlov berish kabi vazifalarni bajaradigan dastur. Misollar: MS Paint, Adobe Photoshop, Corel Draw, Macromedia Flash, Macromedia FreeHand, Adobe Illustrator, 3D Studio Max, Maya va hokazo.
+39.	Multimedia dasturlari – mazkur dasturlar toifasi har xil turdagi multimedia axborot fayllarini (audio, video va hokazo) ochish va ijro etish va ular ustida boshqa har xil amallarni bajarish imkoniyatini yaratuvchi dasturlar. Misollar: Sound Forge, Cakewalk, WinAmp, Windows Media Player, DivX Player va boshqalar.
+40.	Antivirus ¬– kompyuterni viruslardan saqlash va himoyalash, qattiq disk, media vositalarni virusga tekshirish va davolash vazifalarini bajaradigan dastur. Misollar: Avast, Norton Antivirus, NOD32, MacAfee Antivirus, Panda Antivirus, DrWeb, Antivirus Kasperskogo va boshqalar.
+41.	Arxivator – kompyuterdagi ma'lumotlarni ixcham shaklga keltirish, ya'ni arxivga joylashtirish, chiqarish, yangilash kabi vazifalarni bajaradigan dastur. Misollar: ARJ, RAR, ZIP, WinZip, PkZip, WinRAR va hokazo.
+42.	Fayl menejerlari – fayl va kataloglar (papka, katalog, direktoriya) ustida bir qator amallarni bajarish imkonini beradi: yaratish, o'chirish, nusxa ko'chirish, nomini o'zgartirish, ko'chirish, tahrirlash, ochib ko'rish va hokazo. Misollar: Norton Commander, Dos Navigator, Far Manager, Volkov Commander, Total Commander va boshqalar.

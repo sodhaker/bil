@@ -1,0 +1,22 @@
+BUNI HAMMA BILISHI KERAK (MATEMATIKA):
+
+1. Tenglama – noma’lum o’zgaruvchi qatnashgan tenglik tenglama deyiladi.
+2. Pifagor teoremasi – to’g’ri burchakli uchburchak gipotenuzasining kvadrati, katetlari kvadratlari yig’indisiga teng.
+3. To’g’ri to’rtburchakning yuzi, uning eni bilan bo’yining ko’paytmasiga teng.
+   (eni a ga, bo’yi b gat eng deb olinsa, uning yuzi S=ab ga teng bo’ladi).
+4. Har qanday uchburchakning ichki burchaklar yig’indisi 180 gradiusga teng.
+5. Perimetr- ko’pburchakning tomonlari uzunliklarining yig’indisi.
+6. Berilgan sonli ifodada arifmetik amallar bajarish tartibi: Avval ikkinchi bosqich amallar ko’paytirish va bo’lish bajariladi.
+   Agar sonli ifodada qavs ichida ifoda kelsa, qavs ichidagi amallar birinchi bajariladi.
+7. Ko’paytirish jadvalini bilish.
+8. Kvadrat- Hamma tomonlari teng bo’lgan to’g’ri to’rtburchak.
+9. Uzunlik o’lchov birliklari: mm, sm, dm, m, km (1 km=1000 m, 1 m=100 sm, 1dm= 10 sm, 1 sm= 10 mm).
+10. Og’irlik o’lchov birliklari, gr, kg, sentner, tonna (1 tonna=1000 kg, 1 sentner=100 kg, 1 kg= 1000 gr).
+11. Vaqt o’lchov birliklari: sekund, minut, soat, sutka, hafta, oy, yil, asr,era.
+   (1 minut=60 sekund, 1 soat=60 minut, 1 sutka= 24 soat, 1 hafta=7 sutka, 1 yil= 365 yoki 366 kun, 1 asr= 100 yil, 1 era= 1000 yil).
+12. To’g’ri burchakli uchburchak – bitta burchagi to’g’ri bo’lgan uchburchak.
+13. Gipotenuza – to’g’ri burchak qarshisidagi tomon.
+14. Katet – to’g’ri burchakka yopishgan tomonlar.
+15. Turli hil ishorali sonlarni qo’shish va ayirish – katta sondan kichik sonni ayirib katta sonning ishorasi qo’yiladi.
+16. To’gri burchakli parallelepipedning hajmi – uning uchta chiziqli o’lchovlari ko’paytmsiga teng.
+   (eni, bo’yi va balandligining ko’paytmasi. V = a*b*c).
