@@ -1,7 +1,7 @@
 {
   "name": "bilimdon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Online talim",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,7 +9,7 @@
   "engines": {
     "node": "9.7.1"
   },
-  "author": "",
+  "author": "Ibragimov Sodiqjon",
   "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0"

@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-var fs = require('fs');
-var fanNom = '',
+const fs = require('fs');
+let fanNom = '',
     savNomer = 1,
     savSon = 0,
     tjSon = 0,
@@ -18,7 +18,10 @@ var fanNom = '',
     testFaylText=[],
     savBosh = [],
     savOxir = [],
-    savTartib=[];
+    savTartib=[],
+    myObjName =[],
+    myObjValue =[],
+    myObj={};
 
 const testFayl = fs.readFileSync('TestFayli.txt','utf8').toString().split("\r\n");
 
@@ -42,7 +45,7 @@ const KB = {
     natija: 'Natija'
 };
 
-bot.onText(/\/start/, (msg, match) => {
+bot.onText(/\/start/, (msg) => {
     sendAbout(msg, true)
 });
 
@@ -118,7 +121,7 @@ bot.on('message', (msg) => {
 });
 
 function sendYangilik(chatId) {
-    var yangilikFayl = fs.readFileSync('Yangiliklar.txt','utf8').toString().split("\n");
+    const yangilikFayl = fs.readFileSync('Yangiliklar.txt','utf8').toString().split("\n");
     myText = '';
     i = 0;
     while (i < yangilikFayl.length - 1) {
@@ -136,9 +139,9 @@ function sendYangilik(chatId) {
 
 function sendTestFile(chatId) {
     myText ='Test savollari:\n';
-    var myObjName =[],
-        myObjValue =[],
-        myObj={};
+    myObjName =[];
+    myObjValue =[];
+    myObj={};
     for (i=0;i<testFayl.length;i++){
         myText=myText+'\n'+(i+1).toString()+') '+testFayl[i];
         myObjName.push(i+1);
@@ -196,9 +199,9 @@ function sendTest(msg) {
 
 function sendMinSavFile(chatId) {
     myText ='Minimum savollari:\n';
-    var myObjName =[],
-        myObjValue =[],
-        myObj={};
+    myObjName =[];
+    myObjValue =[];
+    myObj={};
     for (i=0;i<minSavFayl.length;i++){
         myText=myText+'\n'+(i+1).toString()+') '+minSavFayl[i];
         myObjName.push(i+1);
@@ -269,7 +272,7 @@ function sendAbout(msg, about = true) {
 }
 
 function sendJavob(chatId) {
-    var testSavol = (savNomer+1).toString()+'-savol?\n';
+    let testSavol = (savNomer+1).toString()+'-savol?\n';
     for (i = savBosh[savTartib[savNomer]]; i < savOxir[savTartib[savNomer]]; i++) testSavol=testSavol+'\n'+testFaylText[i];
     bot.sendMessage(chatId, testSavol,{
         reply_markup: {
@@ -319,7 +322,7 @@ function sendNatija(chatId, fromId) {
 }
 
 function sendReyting(chatId) {
-    var reytingFayl = fs.readFileSync('Reyting.txt','utf8').toString().split('\n');
+    const reytingFayl = fs.readFileSync('Reyting.txt','utf8').toString().split('\n');
     options={
         reply_markup: {
             resize_keyboard: true,
