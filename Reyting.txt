@@ -5,3 +5,6 @@ Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 20
 Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 20
 Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 0
 Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 20
+Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 100
+Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 0
+Foydalanuvchi: Ibragimov; Fan: Informatika_minimum; Ball: 0

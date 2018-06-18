@@ -1,6 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 const fs = require('fs');
+
 let fanNom = '',
     savNomer = 1,
     savSon = 0,
@@ -151,7 +152,6 @@ function sendTestFile(chatId) {
     options ={
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [Object.keys(myObj),[KB.reyting, KB.back]]
         }
     };
@@ -211,14 +211,12 @@ function sendMinSavFile(chatId) {
     options ={
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [Object.keys(myObj),[KB.back]]
         }
     };
     bot.sendMessage(chatId, myText, options);
 }
 
-//function sendMinimumSavol(chatId, myIndex) {
 function sendMinimumSavol(msg) {
     const minSavFaylName ='./MinSav/'+minSavFayl[msg.text-1]+'.txt';
     const minSavFaylText = fs.readFileSync(minSavFaylName,'utf8').toString().split("\n");
@@ -226,7 +224,6 @@ function sendMinimumSavol(msg) {
     options ={
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [
                 [KB.about, KB.yangilik],
                 [KB.test, KB.min_sav]
@@ -262,7 +259,6 @@ function sendAbout(msg, about = true) {
     bot.sendMessage(msg.chat.id, myText, {
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [
                 [KB.about, KB.yangilik],
                 [KB.test, KB.min_sav]
@@ -272,12 +268,11 @@ function sendAbout(msg, about = true) {
 }
 
 function sendJavob(chatId) {
-    let testSavol = (savNomer+1).toString()+'-savol?\n';
-    for (i = savBosh[savTartib[savNomer]]; i < savOxir[savTartib[savNomer]]; i++) testSavol=testSavol+'\n'+testFaylText[i];
-    bot.sendMessage(chatId, testSavol,{
+    myText = (savNomer+1).toString()+'-savol?\n';
+    for (i = savBosh[savTartib[savNomer]]; i < savOxir[savTartib[savNomer]]; i++) myText=myText+'\n'+testFaylText[i];
+    bot.sendMessage(chatId, myText,{
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [
                  [KB.aJav, KB.bJav, KB.cJav, KB.dJav],
                  [KB.natija]
@@ -312,7 +307,6 @@ function sendNatija(chatId, fromId) {
     bot.sendMessage(chatId, myText, {
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [
                 [KB.about, KB.yangilik],
                 [KB.test, KB.min_sav]
@@ -326,7 +320,6 @@ function sendReyting(chatId) {
     options={
         reply_markup: {
             resize_keyboard: true,
-            //one_time_keyboard: true,
             keyboard: [
                 [KB.about, KB.yangilik],
                 [KB.test, KB.min_sav]
